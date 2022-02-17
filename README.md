@@ -12,4 +12,4 @@
 ## Using dotnet  `Secret Manager` 
  https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=windows
   ### Initialisation
-      `dotnet user-secrets init`
+      dotnet user-secrets init
